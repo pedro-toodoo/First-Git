@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/pedro-toodoo/First-Git)
+![GitHub followers](https://img.shields.io/github/followers/pedro-toodoo?style=social)
+
 # Primeiro commit
 ## Testes no README 
 
